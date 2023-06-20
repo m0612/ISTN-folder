@@ -45,6 +45,11 @@
 body
 {
     text-align: center;
+    background-color:rgb(182, 231, 235);
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -20px;
+    padding-top: 20px;
 }
 
 .istn-header1
@@ -55,4 +60,14 @@ body
 #gsearch
 {
     font-size: 30px;
+    margin: 10px;
+    
 }
+
+.header-miguel
+{
+   font-size: 30px;
+   background-color: rgb(100, 232, 223);
+}
+
+
